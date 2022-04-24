@@ -1,0 +1,9 @@
+body{
+    background-image: url('imgbackground.jpg');
+    background-position: fixed;
+    background-size: 100%;
+}
+h2{
+    color: white;
+    font-size: 100%;
+}
